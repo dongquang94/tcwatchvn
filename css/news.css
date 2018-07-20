@@ -1,0 +1,7 @@
+*{ margin: 0px; padding: 0px; }
+.item-news{ width: 750px; height: 150px; margin: auto; margin-top: 15px; }
+.item-news-img{ width: 150px; height: 150px; }
+.item-news-left{ width: 575px; height: 150px; float: left; margin: -150px 0px 0px 175px; }
+.item-news-tilte{ width: 575px; height: 50px; }
+.item-news-tilte a{ text-decoration: none; color: black; }
+.item-news-des{ width: 575px; height: 85px; margin-top: 15px; color: gray; }

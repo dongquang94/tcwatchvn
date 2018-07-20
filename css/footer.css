@@ -1,0 +1,4 @@
+*{ margin: 0px; padding: 0px; }
+footer{ width: 100%; height: 300px; background: #D8D8D8; clear: both; margin-top: 50px;}
+#footer-info{ width: 400px; height: 300px; margin-left: 50px;}
+#maps{ width: 600px; height: 250px; float: left; margin: -275px 0px 0px 550px; }

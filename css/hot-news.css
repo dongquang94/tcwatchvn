@@ -1,0 +1,34 @@
+*{ margin: 0px; padding: 0px; }
+#hot-news{ width: 1200px; height: 800px; margin: auto; margin-top: 50px; }
+#hot-hot-news{ width: 575px; height: 800px; }
+#new-hot-news{ width: 575px; height: 800px; float: left; margin: -800px 0px 0px 625px; }
+
+#header-hot-hot-news{ width: 575px; height: 50px; background: #D8D8D8; line-height: 50px; }
+#header-hot-hot-news a{ text-decoration: none; color: #4d4848; }
+#header-hot-hot-news a h1{ width: 250px; border-bottom: 3px solid #4d4848; font-size: 20px; }
+#top-1-hot-hot-news{ width: 575px; height: 375px; }
+#top-1-hot-hot-news-img{ width: 575px; height: 300px; margin: auto; margin-top: 15px; }
+#title-top-1-hot-hot-news{ width: 575px; height: 60px; margin-top: 15px; }
+#title-top-1-hot-hot-news a{ text-decoration: none; color: black; }
+
+.top-hot-hot-news{ width: 575px; height: 150px; margin-top: 15px; }
+.top-hot-hot-news-img{ width: 150px; height: 150px; }
+.cont-top-hot-hot-news{ width: 400px; height: 150px; float: left; margin: -150px 0px 0px 175px; }
+.title-top-hot-hot-news{ width: 400px; height: 50px; }
+.title-top-hot-hot-news a{ text-decoration: none; color: black; }
+.des-top-hot-hot-news{ width: 400px; height: 85px; margin-top: 15px; color: gray;}
+
+#header-new-hot-news{ width: 575px; height: 50px; background: #D8D8D8; line-height: 50px; }
+#header-new-hot-news a{ text-decoration: none; color: #4d4848; }
+#header-new-hot-news a h1{ width: 250px; border-bottom: 3px solid #4d4848; font-size: 20px;}
+#top-1-new-hot-news{ width: 575px; height: 375px; }
+#top-1-new-hot-news-img{ width: 575px; height: 300px; margin: auto; margin-top: 15px; }
+#title-top-1-new-hot-news{ width: 575px; height: 60px; margin-top: 15px; }
+#title-top-1-new-hot-news a{ text-decoration: none; color: black; }
+
+.top-new-hot-news{ width: 575px; height: 150px; margin-top: 15px; }
+.top-new-hot-news-img{ width: 150px; height: 150px; }
+.cont-top-new-hot-news{ width: 400px; height: 150px; float: left; margin: -150px 0px 0px 175px; }
+.title-top-new-hot-news{ width: 400px; height: 50px; }
+.title-top-new-hot-news a{ text-decoration: none; color: black; }
+.des-top-new-hot-news{ width: 400px; height: 85px; margin-top: 15px; color: gray;}

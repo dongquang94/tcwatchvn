@@ -1,0 +1,2 @@
+<br /><span style="font-size: 20px;">Chào mừng bạn đến với Trang quản trị. Bạn có thể quản lý trang web của bạn tại đây!<br />
+Bạn có thể <i>xem chi tiết, chỉnh sửa và xóa </i> <b>Danh mục, Sản phẩm, Tin tức, Trình chiếu, Loại sản phẩm, Khuyến mại</b> và có thể<i> thay đổi </i><b>Mật khẩu</b> của bạn.</span>

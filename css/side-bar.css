@@ -1,0 +1,9 @@
+*{ margin: 0px; padding: 0px; }
+#side-bar{ width: 230px; height: 900px; margin-top: 20px; border: 3px solid gray;}
+#header-sidebar{ width: 230px; height: 50px; background: #4d4848; text-align: center; line-height: 50px; }
+#text-header-sidebar{ color: white; }
+#menu-sidebar{ width: 220px; height: 835px; overflow-y: hidden; }
+#menu-sidebar{ padding: 15px 0px 0px 25px; }
+#menu-sidebar ul li{ margin-bottom: 10px; }
+#menu-sidebar ul li a{ text-decoration: none; color: black; }
+#menu-sidebar a:hover{ text-decoration: underline; }

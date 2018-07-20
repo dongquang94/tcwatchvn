@@ -1,0 +1,26 @@
+/*login*/
+.wrapper_login {
+	padding: 20px;
+	background-color: #EDEDED;
+}
+/*dashboard*/
+
+
+/*Category*/
+.radio-btn  {
+	margin-left: -10px;
+}
+.modal-footer {
+	border: 0px !important;
+}
+.modal-header {
+	border: 0px !important;
+}
+
+#Createslideshow label {
+	float: left;
+}
+#Createsale label {
+	float: left;
+}
+

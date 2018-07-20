@@ -1,0 +1,4 @@
+*{ margin: 0px; padding: 0px; }
+#sale{ width: 1200px; height: 200px; margin: auto; margin-top: 30px; }
+.sale-item{ width: 380px; height: 200px; float: left; }
+.sale-item{ margin-left: 20px; }

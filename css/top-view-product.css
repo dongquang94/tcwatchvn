@@ -1,0 +1,14 @@
+*{ margin: 0px; padding: 0px; }
+#top-view-product{ width: 950px; height: 400px; border: 1px solid #D8D8D8; }
+#header-top-view-product{ width: 950px; height: 60px; background: #D8D8D8; margin-top: 10px;}
+#img-top-view-product{ width: 40px; height: 40px; padding: 10px; }
+#text-top-view-product{ float: left; margin: -40px 0px 0px 80px; color: #4d4848; }
+#show-top-view-product{ width: 950px; height: 320px; border: 1px solid #D8D8D8; margin-top: 10px; }
+.item-top-view-product{ width: 237px; height: 320px; float: left; text-align: center; position: relative; }
+.item-top-view-product-sale-off{ width: 50px; height: 50px; position: absolute; top: 20px; right: 20px; background-image: url("../image/sale-off.png");text-align: center; color: white; background-position: center center; background-size: cover; line-height: 21px;}
+.item-top-view-product-img{ width: 197px; height: 197px; margin: auto; margin-top: 20px; margin-bottom: 20px; border: 3px solid gray;}
+.item-top-view-product-name{ width: 210px; height: 35px ; color: #4d4848; font-size: 12px; margin: auto; margin-top: 10px;}
+.item-view-product-cost{ width: 237px; height: 20px; margin-top: 5px; }
+#view-product-cost-sale{ margin-right: 20px; color: red; font-size: 15px; float: right; }
+#view-product-cost{ margin-left: 20px; text-decoration: line-through; float: left; }
+.item-top-view-product:hover{ background: #D8D8D8; transition: all 0.25s; }

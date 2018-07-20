@@ -1,0 +1,10 @@
+*{ margin: 0px; padding: 0px; }
+#pro-detail-image{ width: 400px; height: 400px; }
+#pro-detail-info{ width: 500px; height: auto; float: left; margin: -400px 0px 0px 450px; }
+#pro-detail-name{ font-size: 23px; padding: 20px 0px 10px 0px; }
+#pro-detail-status{ color: #0080FF; padding: 10px 0px 10px 0px; }
+#pro-detail-cost{ text-decoration: line-through; padding: 10px 0px 4px 0px; }
+#pro-detail-cost-sale{ color: red; font-size: 25px; }
+#detail-info{ margin: 100px 0px 50px 50px; width: 500px; height: auto; }
+#pro-detail-des{ width: 850px; height: auto; margin: auto; margin-top: 25px; }
+#other-product{ width: 1200px; margin-top: 25px; clear: both; }

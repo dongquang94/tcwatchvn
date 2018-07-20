@@ -1,0 +1,5 @@
+*{ margin: 0px; padding: 0px; }
+#cont-news-detail{ width: 800px; margin: auto; height: auto; margin-top: 15px;}
+#title-news-detail{ text-align: center; }
+#content-news-detail{ margin-top: 30px; }
+#date-news-detail{ float: right; margin-top: 15px;}
